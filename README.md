@@ -2,6 +2,8 @@
 
 동영상 장면을 선택해 재생 버튼이 첨부된 이미지로 변환하는 프로그램
 
+![demo](https://github.com/syki66/video-to-thumbnail-with-playbutton/assets/59393359/88d47073-18f3-46cc-9875-d0690e9b65f4)
+
 ## Feature
 
 - 동영상 제어
